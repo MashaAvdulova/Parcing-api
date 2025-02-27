@@ -11,7 +11,7 @@ import requests
 #     probability = data.get('probability')
 #     print(name,gender, probability)
 #
-# URL = 'https://api.genderize.io/?name=Elena'
+# URL = 'https://api.genderize.io/?name=Elenasudo rm -r venv'
 # data = get_data(url=URL)
 # parse_data(data)
 
